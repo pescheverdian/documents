@@ -1,6 +1,6 @@
 +++
 title = '爆贖者的獨白 - Monologue of Explosivedeemer'
-date = 2025-08-24T19:00:00+08:00
+date = 2025-08-28T09:00:00+08:00
 draft = false
 +++
 
