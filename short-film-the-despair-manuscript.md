@@ -1,7 +1,7 @@
 +++
 title = '绝望草案 - The Despair Manuscript'
 date = 2025-08-24T19:00:00+08:00
-draft = false
+draft = true
 +++
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C9N0HBehWVo?si=JV83EeWoZeEc8_0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
